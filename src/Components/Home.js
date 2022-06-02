@@ -18,7 +18,7 @@ const Home = () => {
                 class="view"
               />
             </header>
-            <h1 class="tittle-card">Equilibrium By Sakib #3429</h1>
+            <h1 class="tittle-card">Equilibrium By Siam #3429</h1>
 
             <p class="text-card">
               Our Equilibrium collection promotes balance and calm.
