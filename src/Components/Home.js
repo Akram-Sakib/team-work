@@ -52,7 +52,7 @@ const Home = () => {
               <p class="text-creator">
                 Creation of
                 <a href="https://github.com/Jean-carje" class="name-creator">
-                  Mohammad Ali
+                  Akram Hossain
                 </a>
               </p>
             </footer>
@@ -64,7 +64,7 @@ const Home = () => {
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor
           </a>
-          . Coded by <a href="#">Your Name Here</a>.
+          . Coded by <a href="#">Akram Hossain Sakib</a>.
         </div>
       </div>
     );
