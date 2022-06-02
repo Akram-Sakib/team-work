@@ -52,7 +52,7 @@ const Home = () => {
               <p class="text-creator">
                 Creation of
                 <a href="https://github.com/Jean-carje" class="name-creator">
-                  Jean Estevez
+                  Mohammad Ali
                 </a>
               </p>
             </footer>
